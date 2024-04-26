@@ -20,7 +20,7 @@
 // maximum current for field weakening in mA
 #define FIELD_WEAKNING_CURRENT_MAX 0 //max id
 
-// ADC channels
+// ADC channels test
 #define ADC_VOLTAGE 6
 #define ADC_THROTTLE 7
 #define ADC_TEMP 0
